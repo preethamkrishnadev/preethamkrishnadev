@@ -1,52 +1,53 @@
 # PARTHA PREETHAM KRISHNA M L
 
+**Technical Team Lead | Platform & Scalable Systems | Full-Stack & Cloud | MERN • AWS**  
 **Bengaluru, India | Open to Remote**  
 **LinkedIn:** https://linkedin.com/in/partha-preetham-krishna-68ba00197  
-**Email:** parthapreetham@gmail.com  
+**Email:** preetham.krishna.dev@gmail.com  
 **Phone:** +91 9916540397  
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Technical Team Lead and Platform Architect with 9 years of experience driving high-scale
+Technical Team Lead and Platform Architect with **9.5 years of experience** driving high-scale
 product delivery across media, SaaS, and Ed-Tech domains. Proven track record of owning
 end-to-end system architecture, leading cross-functional engineering teams, and ensuring
-reliability of mission-critical platforms under live production loads. Deep expertise in
-Microservices, Event-Driven Design, and backend-heavy full-stack systems using Node.js,
-Laravel, Vue.js, and React.js.
+reliability of mission-critical platforms under live production loads.
 
-Previously led architecture and delivery of interactive platforms at Sony Pictures Networks,
-scaling systems such as **KBC Play Along** and **Shark Tank India** to support **millions of
-concurrent users**. Seeking a high-impact **Technical Team Lead** or **Lead Engineer** role
-focused on platform engineering, backend scalability, and technical ownership.
+Deep expertise in **Microservices, Event-Driven Design**, and backend-heavy full-stack systems
+using **Node.js, Laravel, Vue.js, and React.js**. Previously led architecture and delivery of
+interactive platforms at **Sony Pictures Networks**, scaling systems such as **KBC Play Along**
+and **Shark Tank India** to support **millions of concurrent users**. Seeking a high-impact
+**Technical Team Lead / Lead Engineer** role focused on platform engineering, backend scalability,
+and technical ownership.
 
 ---
 
 ## CORE COMPETENCIES
 
 ### Platform Engineering & Architecture
-- System Design: Microservices, Modular Monoliths, Event-Driven Architecture
-- APIs: RESTful APIs, Secure API Gateways, Authentication & Authorization (JWT, OAuth)
-- Scalability & Reliability: High Availability, Performance Optimization, Fault Tolerance
+- System Design: Microservices, Modular Monoliths, Event-Driven Architecture  
+- APIs: RESTful APIs, Secure API Gateways, Authentication & Authorization (JWT, OAuth)  
+- Scalability & Reliability: High Availability, Performance Optimization, Fault Tolerance  
 
 ### Backend & Data
-- Node.js, Express.js, TypeScript
-- PHP, Laravel
-- Databases: MySQL, MongoDB, Redis, BigQuery
-- API Orchestration, Data Pipelines, Segmentation Systems
+- Node.js, Express.js, TypeScript  
+- PHP, Laravel  
+- Databases: MySQL, MongoDB, Redis, BigQuery  
+- API Orchestration, Data Pipelines, Segmentation Systems  
 
 ### Leadership & Governance
-- Technical Leadership & Mentorship (5+ engineers)
-- Sprint Planning, Backlog Grooming, Delivery Ownership
-- Code Reviews, PR Governance, Engineering Standards
-- Stakeholder & Vendor Alignment
-- Hiring Support and Knowledge Transfer
+- Technical Leadership & Mentorship (5+ engineers)  
+- Sprint Planning, Backlog Grooming, Delivery Ownership  
+- Code Reviews, PR Governance, Engineering Standards  
+- Stakeholder & Vendor Alignment  
+- Hiring Support and Knowledge Transfer  
 
 ### Frontend & DevOps (Supporting)
-- Frontend: React.js, Vue.js, Angular, HTML5, CSS3, Tailwind
-- DevOps & Infra: DigitalOcean, Docker (Basic), Nginx, PM2
-- CI/CD Pipelines, Monitoring, Production Support
+- Frontend: React.js, Vue.js, Angular, HTML5, CSS3, Tailwind  
+- DevOps & Infra: DigitalOcean, Docker (Basic), Nginx, PM2  
+- CI/CD Pipelines, Monitoring, Production Support  
 
 ---
 
@@ -56,19 +57,20 @@ focused on platform engineering, backend scalability, and technical ownership.
 *Bengaluru | Jul 2025 – Present*
 
 **Leadership Scope:** Leading full-stack and backend teams responsible for scalable web
-platforms with production ownership and 99.9% uptime targets.
+platforms with production ownership and **99.9% uptime** targets.
 
-- Architected a unified Dynamic API Framework enabling interoperability between Sahayata
+- Architected a unified **Dynamic API Framework** enabling interoperability between Sahayata
   and Towbook systems.
 - Led API performance optimization initiatives across core services, achieving a **40%
   improvement** through caching and query optimization.
-- Enforced CI/CD pipelines, pull request reviews, documentation standards, and code
+- Enforced CI/CD pipelines, pull-request reviews, documentation standards, and code
   governance across multiple teams.
 - Drove cloud-native scalability initiatives to ensure platform resilience and high availability.
 - Mentored engineers and reinforced an execution-focused, quality-driven engineering culture.
 
 **Impact:** Improved system performance and operational reliability while establishing
-consistent engineering standards across teams.
+consistent engineering standards across teams. Increased integration speed with **Traxero
+and Towbook by 70%**, contributing to a **5× faster business growth rate**.
 
 ---
 
@@ -77,19 +79,21 @@ consistent engineering standards across teams.
 *Bengaluru | Jun 2022 – Jul 2025*
 
 **Leadership Scope:** Technical ownership for high-scale interactive platforms including
-Shark Tank India, KBC Play Along, Indian Idol, and Super Dancer. Mentored and guided a team
-of 5+ engineers.
+**Shark Tank India, KBC Play Along, Indian Idol, and Super Dancer**. Mentored and guided a
+team of **5+ engineers**.
 
 - Led end-to-end architecture and delivery of interactive platforms supporting **millions of
   concurrent users** during live television events.
 - Defined system blueprints for multi-phase registration, jury scoring, evaluation workflows,
   and compliance-driven modules in collaboration with legal and product stakeholders.
 - Owned backend development of segmentation pipelines, real-time dashboards, and optimized
-  APIs using Node.js, Laravel, MongoDB, and BigQuery.
+  APIs using **Node.js, Laravel, MongoDB, and BigQuery**.
 - Introduced modular development practices, coding standards, and CI/CD improvements,
   reducing production defects by **~30%**.
 - Coordinated sprint planning, hiring interviews, vendor collaboration, and knowledge transfer
   to align delivery with scale and compliance requirements.
+- Owned cloud infrastructure decisions across **AWS** and managed data pipelines leveraging
+  **BigQuery** for real-time analytics.
 
 **Impact:** Enabled reliable, high-traffic consumer platforms under extreme load while
 improving engineering quality and delivery predictability.
@@ -102,8 +106,8 @@ improving engineering quality and delivery predictability.
 **Leadership Scope:** Core contributor to enterprise security platforms with focus on frontend
 performance and technical debt reduction.
 
-- Refactored legacy frontend architecture into reusable Vue.js modules, improving application
-  performance and maintainability.
+- Refactored legacy frontend architecture into reusable **Vue.js modules**, improving
+  application performance and maintainability.
 - Developed and enhanced enterprise security dashboards used by large-scale customers.
 - Collaborated in release planning, performance tuning, and UI modernization initiatives.
 
@@ -138,18 +142,18 @@ and post-launch support.
 
 ## ACHIEVEMENTS & OPEN-SOURCE CONTRIBUTIONS
 
-- **Author & Maintainer — korm-js (npm)**
+- **Author & Maintainer — korm-js (npm)**  
   - Designed and published a lightweight ORM-style abstraction for Node.js focused on clean
-    data access patterns and developer productivity.
+    data access patterns and developer productivity.  
   - Adopted as a reusable backend foundation across internal projects and experimental
-    platforms.
-  - npm: https://www.npmjs.com/package/@dreamtree-org/korm-js
+    platforms.  
+  - npm: https://www.npmjs.com/package/@dreamtree-org/korm-js  
 
-- **Author — twreact-ui (npm)**
+- **Author & Maintainer — twreact-ui (npm)**  
   - Built a reusable React UI component library integrating Tailwind CSS for rapid and
-    consistent frontend development.
-  - Focused on design-system thinking, composability, and scalable UI patterns.
-  - npm: https://www.npmjs.com/package/@dreamtree-org/twreact-ui
+    consistent frontend development.  
+  - Focused on design-system thinking, composability, and scalable UI patterns.  
+  - npm: https://www.npmjs.com/package/@dreamtree-org/twreact-ui  
 
 ---
 
@@ -172,16 +176,16 @@ Visvesvaraya Technological University (VTU), Karnataka
 
 ## CERTIFICATIONS
 
-- AWS Solutions Architect — Udemy (2022)
-- Google Cloud BigQuery Essentials — Coursera (2023)
-- Vue Mastery (2023)
-- Agile Foundations — LinkedIn Learning (2023)
+- AWS Solutions Architect — Udemy (2022)  
+- Google Cloud BigQuery Essentials — Coursera (2023)  
+- Vue Mastery (2023)  
+- Agile Foundations — LinkedIn Learning (2023)  
 - Full Stack Web Development — Udemy (2016)
 
 ---
 
 ## LANGUAGES
 
-- English
-- Hindi
-- Kannada
+- English  
+- Hindi  
+- Kannada  
